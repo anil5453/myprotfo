@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myprotfo/static/css/main.a54afe7e.css",
+    "main.js": "/myprotfo/static/js/main.658e469f.js",
+    "static/js/453.ca4b1c2a.chunk.js": "/myprotfo/static/js/453.ca4b1c2a.chunk.js",
+    "static/media/medinosis.png": "/myprotfo/static/media/medinosis.79941d5bfa00f8bbb2ab.png",
+    "static/media/abstract-background-with-low-poly-design.jpg": "/myprotfo/static/media/abstract-background-with-low-poly-design.20ef5bb717899ea431d8.jpg",
+    "static/media/large.jpg": "/myprotfo/static/media/large.1fe4c37681f6ac1e34c3.jpg",
+    "static/media/Project4.jpg": "/myprotfo/static/media/Project4.7025dd9b1d0cca463774.jpg",
+    "static/media/header1.png": "/myprotfo/static/media/header1.361bac7c57687431e07e.png",
+    "static/media/header3.png": "/myprotfo/static/media/header3.9baef34e62629226f269.png",
+    "static/media/Project3.jpg": "/myprotfo/static/media/Project3.3659c0d8116a7225737e.jpg",
+    "static/media/Project2.jpg": "/myprotfo/static/media/Project2.542cfab85f98974fbfc1.jpg",
+    "static/media/bigbus (2).png": "/myprotfo/static/media/bigbus (2).2df3d2061fdfed9ebfe0.png",
+    "static/media/header2.png": "/myprotfo/static/media/header2.c8978bb8aa101df840b0.png",
+    "static/media/aboutmeimg.png": "/myprotfo/static/media/aboutmeimg.73cd9a2b6203447cdc9d.png",
+    "static/media/anilpc3.jpg": "/myprotfo/static/media/anilpc3.620fcf216ebb27de2383.jpg",
+    "static/media/anilnav.jpg": "/myprotfo/static/media/anilnav.8f9689cea6b46307fe3e.jpg",
+    "static/media/kuncham.png": "/myprotfo/static/media/kuncham.51b0dba3fb4ee0528585.png",
+    "static/media/dribble.png": "/myprotfo/static/media/dribble.5bd157081aafd8bf91df.png",
+    "static/media/linkedin (7).png": "/myprotfo/static/media/linkedin (7).3303529e002961768e6f.png",
+    "static/media/github.png": "/myprotfo/static/media/github.4e968e25415ca5469b76.png",
+    "static/media/logo.svg": "/myprotfo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myprotfo/index.html",
+    "main.a54afe7e.css.map": "/myprotfo/static/css/main.a54afe7e.css.map",
+    "main.658e469f.js.map": "/myprotfo/static/js/main.658e469f.js.map",
+    "453.ca4b1c2a.chunk.js.map": "/myprotfo/static/js/453.ca4b1c2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54afe7e.css",
+    "static/js/main.658e469f.js"
+  ]
+}
