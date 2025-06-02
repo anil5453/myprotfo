@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myprotfo/static/css/main.5ea44eb9.css",
+    "main.css": "/myprotfo/static/css/main.252f8ede.css",
     "main.js": "/myprotfo/static/js/main.7b574308.js",
     "static/js/453.ca4b1c2a.chunk.js": "/myprotfo/static/js/453.ca4b1c2a.chunk.js",
     "static/media/medinosis.png": "/myprotfo/static/media/medinosis.79941d5bfa00f8bbb2ab.png",
@@ -22,12 +22,12 @@
     "static/media/github.png": "/myprotfo/static/media/github.4e968e25415ca5469b76.png",
     "static/media/logo.svg": "/myprotfo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/myprotfo/index.html",
-    "main.5ea44eb9.css.map": "/myprotfo/static/css/main.5ea44eb9.css.map",
+    "main.252f8ede.css.map": "/myprotfo/static/css/main.252f8ede.css.map",
     "main.7b574308.js.map": "/myprotfo/static/js/main.7b574308.js.map",
     "453.ca4b1c2a.chunk.js.map": "/myprotfo/static/js/453.ca4b1c2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ea44eb9.css",
+    "static/css/main.252f8ede.css",
     "static/js/main.7b574308.js"
   ]
 }
